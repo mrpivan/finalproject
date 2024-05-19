@@ -1,0 +1,4 @@
+TOKEN = "7192450277:AAHxr01zdznR_ZPjQ___CqB3W8EGWRKIPFY"  # token телеграм-бота
+IAM_TOKEN = 't1.9euelZrJnsacx8vIkouXl4qRyo-anu3rnpWax5DLxpDMjYzKyoqRnJrPzZ3l8_cJamtN-e92NERw_t3z90kYaU3573Y0RHD-zef1656VmpOazp6PjJbLj4qJzMzMyM-J7_zF656VmpOazp6PjJbLj4qJzMzMyM-JveuelZqWy8aaksuJkMmWmpfMjM-Ll7XehpzRnJCSj4qLmtGLmdKckJKPioua0pKai56bnoue0oye.Jm56wmPK2YJcXspcxIyyhLy5vB3T9OiBBoMtyCmZ3Na0jy8W3PBh9tjJ2LAUPS7v-faFRuza8DXHpKPynMi4AA'
+FOLDER_ID = 'b1gbkgg7u80l9ld3640d'
+
