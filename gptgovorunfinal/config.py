@@ -1,4 +1,4 @@
-HOME_DIR = '/home/projects/gptgovorunfinal'  # путь к папке с проектом
+HOME_DIR = '/d/projects/gptgovorunfinal'  # путь к папке с проектом
 LOGS = f'{HOME_DIR}/logs.txt'  # файл для логов
 DB_FILE = f'{HOME_DIR}/messages.db'  # файл для базы данных
 
