@@ -50,7 +50,7 @@ def is_tts_symbol_limit(message, text):
 
 
 def is_stt_block_limit(message, duration):
-    user_id = message.from_user.id
+   
 
     # Переводим секунды в аудиоблоки
     audio_blocks = math.ceil(duration / 15) # округляем в большую сторону
